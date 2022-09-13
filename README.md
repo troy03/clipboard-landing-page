@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/troy03/clipboard-landing-page)
-- Live Site URL: [Add live site URL here](https://clipboard-landing-page-using-scss.netlify.app/)
+- Live Site URL: [https://clipboard-landing-page-using-scss.netlify.app/]
 
 ## My process
 
